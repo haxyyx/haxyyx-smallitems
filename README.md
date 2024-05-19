@@ -3,6 +3,6 @@
 
 
 # 1.AI语音模型
-  提供个人训练的 满穗4.0模型  出自qq3240258753 个人训练
+  提供个人训练的 满穗4.0模型  出自qq3240258753 个人训练 转载 公开使用 视频 教程等 请保留 github仓库地址  如b站简介等
   ### [模型储存位置](https://github.com/haxyyx/haxyyx-smallitems/tree/main/AI/%E5%A3%B0%E9%9F%B3%E5%85%8B%E9%9A%86/GPT-SoVITS/%E6%BB%A1%E7%A9%97%E8%AF%AD%E9%9F%B3%E6%A8%A1%E5%9E%8B)
   ### [点击这里查看详细](https://github.com/haxyyx/haxyyx-smallitems/tree/2f070d22ea58af232d2cab44ea78e6c4efe25769/AI/%E5%A3%B0%E9%9F%B3%E5%85%8B%E9%9A%86/GPT-SoVITS/README.md)
