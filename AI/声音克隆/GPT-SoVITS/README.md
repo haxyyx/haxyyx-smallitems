@@ -16,7 +16,7 @@
   
   3.下载完整合包后 安装整合包内的 VisualStudioSetup.exe 安装的时候弹出的窗口 勾选 【使用C++的桌面开发】 然后点击右下角安装
 
-  4.将整合包内的文件夹里面的文件 全选 拖拽解压到 GPT-SoVITS的仓库代码下进行覆盖  [我不知道什么是仓库代码?](https://github.com/haxyyx/haxyyx-smallitems/tree/2f070d22ea58af232d2cab44ea78e6c4efe25769/AI/%E5%A3%B0%E9%9F%B3%E5%85%8B%E9%9A%86/GPT-SoVITS/README.md#7)
+  4.将整合包内的文件夹里面的文件 全选 拖拽解压到 GPT-SoVITS的仓库代码下进行覆盖
 
   5.点击 更新后运行我更新依赖.bat
 
